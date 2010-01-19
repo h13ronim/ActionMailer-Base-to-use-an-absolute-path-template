@@ -1,6 +1,6 @@
 = ActionMailer-Base-to-use-an-absolute-path-template
 
-Description goes here.
+See https://rails.lighthouseapp.com/projects/8994/tickets/2338-actionmailer-mailer-views-and-content-type
 
 == Note on Patches/Pull Requests
  
